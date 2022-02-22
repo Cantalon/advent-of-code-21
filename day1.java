@@ -14,7 +14,7 @@ public class day1 {
 
         for (int i = 0; i < inputLength; i++) {
             depths[i] = Integer.parseInt(r.readLine());
-        }
+        } //reading to an array
 
         int counter = 0;
         for (int i = 1; i < inputLength; i++) {
