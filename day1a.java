@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
-public class day1_a {
+public class day1a {
 
     static final int inputLength = 2000;
 
